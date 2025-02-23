@@ -137,11 +137,7 @@
                     
                     <textarea id="message" name="message" placeholder="Business or company name" required></textarea>
                 </div>
-                <!-- Honeypot field (anti-spam) -->
-                <div style="display:none;" class="input">
-                    <label for="honeypot">Leave this field blank:</label>
-                    <input type="text" id="honeypot" name="honeypot">
-                </div>
+               
                 <div class="input">
                     <button type="submit" name="send">Submit</button>
                 </div>

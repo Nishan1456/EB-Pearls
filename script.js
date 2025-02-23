@@ -86,5 +86,5 @@ document.addEventListener('DOMContentLoaded', function() {
             });
     }
 
-    fetchTasks(); // Initial load of tasks
+    fetchTasks(); 
 });
