@@ -1,0 +1,35 @@
+This project has 7 files excluding vendor packages and images.
+I have group all task in "index.php"
+1."index.php" 
+-->The main entry point to the webpage.
+
+2."db.php" and "payment-config.php" 
+-->It verifies the database.
+
+3."index.css"
+--> It includes all styling and responsiveness
+
+4."script.js"
+--> It includes the javascript function of task-manager and form.
+
+5. "send.php"
+--> It helps to send details of form through email
+
+6."tasks.php"
+-->It manages the task that we insert,delete and completed.
+
+First task
+--> I have made the ui/ux design and made it responsive.
+I have also store the outsource payment in database and 
+fetched icon,title and description from database.
+
+Second task
+--> I have created the task-manger and the data get stored in 
+db and fetched the data using fetch .
+
+Third task
+--> I have made the form that send details of form to the gmail using mail and 
+vendor after submitting.
+  
+
+Because of no electricity i could not do video as expected.
